@@ -49,6 +49,9 @@
   - Booking Tour
   - Thêm đánh giá và vote sao cho tour
   - Đăng xuất
+- Chức năng Admin (Đang phát triển thêm):
+  - CRUD tour
+  - CRUD user
 ## Hướng dẫn sử dụng code:
 
 - Để sử dụng code này máy tính của bạn phải cài đặt Nodejs, ReactJS, MongoDB và các thư viện trong file package.json để có thể chạy code.
