@@ -1,4 +1,4 @@
-# Tour_Booking_App_MERN_Stack
+# Tour_Booking_Website_MERN_Stack
 
 <img src="https://github.com/lequocthinh-Genesis/FNG-demo-1/blob/master/assets/img/FNG-logo.png?raw=true">
 
