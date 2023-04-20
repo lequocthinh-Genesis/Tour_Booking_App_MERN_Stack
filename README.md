@@ -4,7 +4,8 @@
 
 ## Mô tả project:
 
-- Đây là project với ý tưởng là xây dựng một trang web có thể giúp chúng ta có thể tìm kiếm và booking các tour du lịch một cách linh hoạt và hiệu quả đồng thời thiết kế giao diện đẹp mắt, hiệu ứng chuyển động linh hoạt giúp tối ưu hóa trãi nghiệm người dùng.
+- Đây là project với ý tưởng là xây dựng một trang web có thể giúp chúng ta có thể tìm kiếm và booking các tour du lịch một cách linh hoạt và hiệu quả đồng thời thiết kế giao diện đẹp mắt, hiệu ứng chuyển động linh hoạt giúp tối ưu hóa trãi nghiệm người dùng. 
+
 
 ## Công nghệ sử dụng:
 
