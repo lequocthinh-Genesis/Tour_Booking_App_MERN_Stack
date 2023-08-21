@@ -1,10 +1,9 @@
-# Tour_Booking_Website_MERN_Stack
+# Tour_Review_Website_MERN_Stack
 
-<img src="https://github.com/lequocthinh-Genesis/FNG-demo-1/blob/master/assets/img/FNG-logo.png?raw=true">
 
 ## Mô tả project:
 
-- Đây là project với ý tưởng là xây dựng một trang web có thể giúp chúng ta có thể tìm kiếm và booking các tour du lịch một cách linh hoạt và hiệu quả đồng thời thiết kế giao diện đẹp mắt, hiệu ứng chuyển động linh hoạt giúp tối ưu hóa trãi nghiệm người dùng. 
+- Đây là project với ý tưởng là xây dựng một trang web có thể giúp chúng ta có thể tìm kiếm và xem đánh giá về các tour du lịch một cách linh hoạt và hiệu quả. 
 
 
 ## Công nghệ sử dụng:
@@ -47,13 +46,16 @@
   - Đăng nhập
   - Tìm kiếm tour
   - Xem chi tiết tour
-  - Booking Tour
   - Thêm đánh giá và vote sao cho tour
   - Đăng xuất
-- Chức năng Admin (Đang phát triển thêm):
+- Chức năng Admin:
   - CRUD tour
   - CRUD user
  
 ## Hướng dẫn sử dụng code:
 
-- Để sử dụng code này máy tính của bạn phải cài đặt Nodejs, ReactJS, MongoDB và các thư viện trong file package.json để có thể chạy code.
+- Để sử dụng code này máy tính của bạn phải cài đặt Nodejs, MongoDB và các thư viện trong file package.json.
+  - B1: Sau khi clone code về máy, ta chạy lệnh `npm i` trên cả 2 thư mục Frontend và Backend.
+  - B2: Kết nối MongoDB với BackEnd.
+  - B3: Chạy phần Backend bằng lệnh `npm start`.
+  - B4: Chạy phần Frontend bằng lệnh `npm start`.
